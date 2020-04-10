@@ -62,3 +62,9 @@ body {
     table-layout: fixed;
     width: 80%;  
   }
+
+  .table1 {
+    width: 80%;
+    margin: auto;
+    font-size: 22px;
+    border-collapse:collapse; }
