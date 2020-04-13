@@ -65,6 +65,15 @@ body {
 
   .table1 {
     width: 80%;
-    margin: auto;
-    font-size: 22px;
-    border-collapse:collapse; }
+    margin: 5%;
+    font-size: 24px;
+    border-collapse:collapse;
+    border: 5px dashed white; 
+    column-rule-color: white;
+    vertical-align: middle;
+  }
+
+    #columntitle {
+      background-color: yellow;
+    }
+    
